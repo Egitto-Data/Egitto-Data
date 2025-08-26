@@ -1,9 +1,9 @@
 ## Hey 👋, I'm Mohamed Gaber!  
 
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-gaber-bb8295353/" target="_blank">
   <img align="left" alt="LinkedIn" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg"/>
 </a>
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:mohammed.gaber3774@gmail.com" target="_blank">
   <img align="left" alt="Gmail" height="20px" src="https://www.svgrepo.com/show/349378/gmail.svg"/>
 </a>
 
@@ -24,7 +24,7 @@ When I’m not working with data, I love playing **Chess ♟️** and reading �
 - 🌱 Learning **Python for Data Science**  
 - 🤝 Open to collaborate on **data projects & dashboards**  
 - 💬 Ask me about **SQL, Excel, Power BI**  
-- 📫 Reach me via [Gmail](mohammed.gaber3774@gmail.com) or [LinkedIn](www.linkedin.com/in/mohamed-gaber-bb8295353)  
+- 📫 Reach me via [Gmail](mohammed.gaber3774@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohamed-gaber-bb8295353/)  
 - 📚 Free time = Chess ♟️ + Reading novels 📖  
 
 ---
@@ -63,9 +63,9 @@ When I’m not working with data, I love playing **Chess ♟️** and reading �
 
 ### 🛠️ My Projects  
 
-- 📌 **SQL Data Analysis** – [link-to-your-repo](#)  
-- 📌 **Power BI Dashboard** – [link-to-your-repo](#)  
-- 📌 **Excel Automation** – [link-to-your-repo](#)  
+- 📌 **SQL Data Analysis** – [Click](https://github.com/Egitto-Data/sql-data-analytics-project)
+- 📌 **Data_Exploratory(EDA)** – [Click](https://github.com/Egitto-Data/Data_Exploratory_Project-EDA-)  
+- 📌 **Data Warehouse and Analytics Project** – [Click](https://github.com/Egitto-Data/sql_data_warehouse_project)  
 
 ---
 
