@@ -63,9 +63,9 @@ When I’m not working with data, I love playing **Chess ♟️** and reading �
 
 ### 🛠️ My Projects  
 
-- 📌 **SQL Data Analysis** – [Click](https://github.com/Egitto-Data/sql-data-analytics-project)
-- 📌 **Data_Exploratory(EDA)** – [Click](https://github.com/Egitto-Data/Data_Exploratory_Project-EDA-)  
-- 📌 **Data Warehouse and Analytics Project** – [Click](https://github.com/Egitto-Data/sql_data_warehouse_project)  
+- 📌 **SQL Data Analysis** – [Click Here](https://github.com/Egitto-Data/sql-data-analytics-project)
+- 📌 **Data_Exploratory(EDA)** – [Click Here](https://github.com/Egitto-Data/Data_Exploratory_Project-EDA-)  
+- 📌 **Data Warehouse and Analytics Project** – [Click Here](https://github.com/Egitto-Data/sql_data_warehouse_project)  
 
 ---
 
