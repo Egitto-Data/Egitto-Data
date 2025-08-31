@@ -11,7 +11,7 @@
 
 I am a **Data Analyst 📊** passionate about turning raw data into meaningful insights.  
 I have solid experience with **SQL 🛢️, Excel 📑, and Power BI 📈**.  
-Currently, I’m expanding my skills in **Python** 🐍, **Machine Learning** 🤖, to become a **Data Scientist**.  
+Currently, I’m expanding my skills in **Python** 🐍, **LLMs** 🤖, **ML & AI**.  
 
 When I’m not working with data, I love playing **Chess ♟️** and reading 📚.  
 
