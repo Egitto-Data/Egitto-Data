@@ -76,7 +76,7 @@ When I’m not working with data, I enjoy playing **Chess ♟️** and reading �
 
 ### 📊 GitHub Stats  
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Gaber&show_icons=true&theme=tokyonight)  
+[Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Gaber&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gaber&layout=compact&theme=tokyonight)  
 
 ---
