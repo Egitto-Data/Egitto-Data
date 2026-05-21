@@ -67,19 +67,14 @@ When I’m not working with data, I enjoy playing **Chess ♟️** and reading �
   <img align="left" alt="Azure" height ="40px" src="https://img.icons8.com/color/48/000000/azure-1.png"/> 
 </a>
 <a href="https://www.getdbt.com/" target="_blank"> 
-  <img align="left" alt="dbt" height ="40px" src="https://img.icons8.com/color/48/000000/dbt.png"/> 
+  <img align="left" alt="dbt" height="40px" src="https://raw.githubusercontent.com/dbt-labs/dbt/main/etc/dbt-logo-full.svg"/> 
 </a>
+
 
 <br><br><br>
 
 ---
 
-### 📊 GitHub Stats  
-
-[Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Gaber&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gaber&layout=compact&theme=tokyonight)  
-
----
 
 ### 🛠️ My Projects  
 
