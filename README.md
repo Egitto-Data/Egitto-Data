@@ -9,21 +9,23 @@
 
 <br><br>
 
-I am a **Data Analyst 📊** passionate about turning raw data into meaningful insights.  
-I have solid experience with **SQL 🛢️, Excel 📑, and Power BI 📈**.  
-Currently, I’m expanding my skills in **Python** 🐍, **LLMs** 🤖, **ML & AI**.  
+I am a **Data Engineer & Data Analyst** passionate about building scalable data pipelines and turning raw data into actionable insights.  
+I have hands-on experience with **SQL 🛢️, Excel 📑, Power BI 📈, and Python 🐍**, and I specialize in modern cloud and analytics platforms:  
+**Snowflake ❄️, Databricks 🔥, PySpark ⚡, Pandas 🐼, Azure ☁️, Fabric, Data Factory, and dbt**.  
 
-When I’m not working with data, I love playing **Chess ♟️** and reading 📚.  
+My focus is on **end-to-end data solutions**: from ingestion and transformation to visualization and reporting.  
+
+When I’m not working with data, I enjoy playing **Chess ♟️** and reading 📚.  
 
 <br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🧐 More About Me:
-- 🔭 I’m currently working on **SQL data analysis projects**  
-- 🌱 Learning **Python for Data Science**  
-- 🤝 Open to collaborate on **data projects & dashboards**  
-- 💬 Ask me about **SQL, Excel, Power BI**  
+- 🔭 Currently working on **data engineering & analytics projects**  
+- 🌱 Expanding expertise in **cloud data platforms (Azure, Snowflake, Databricks)**  
+- 🤝 Open to collaborate on **data pipelines, dashboards, and analytics solutions**  
+- 💬 Ask me about **SQL, Power BI, Snowflake, Databricks, PySpark, dbt**  
 - 📫 Reach me via [Gmail](mohammed.gaber3774@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohamed-gaber-bb8295353/)  
 - 📚 Free time = Chess ♟️ + Reading novels 📖  
 
@@ -49,6 +51,24 @@ When I’m not working with data, I love playing **Chess ♟️** and reading �
 <a href="https://git-scm.com/" target="_blank"> 
   <img align="left" alt="Git" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> 
 </a>
+<a href="https://www.snowflake.com/" target="_blank"> 
+  <img align="left" alt="Snowflake" height ="40px" src="https://img.icons8.com/color/48/000000/snowflake.png"/> 
+</a>
+<a href="https://databricks.com/" target="_blank"> 
+  <img align="left" alt="Databricks" height ="40px" src="https://img.icons8.com/color/48/000000/databricks.png"/> 
+</a>
+<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
+  <img align="left" alt="PySpark" height ="40px" src="https://img.icons8.com/color/48/000000/apache-spark.png"/> 
+</a>
+<a href="https://pandas.pydata.org/" target="_blank"> 
+  <img align="left" alt="Pandas" height ="40px" src="https://img.icons8.com/color/48/000000/pandas.png"/> 
+</a>
+<a href="https://azure.microsoft.com/" target="_blank"> 
+  <img align="left" alt="Azure" height ="40px" src="https://img.icons8.com/color/48/000000/azure-1.png"/> 
+</a>
+<a href="https://www.getdbt.com/" target="_blank"> 
+  <img align="left" alt="dbt" height ="40px" src="https://img.icons8.com/color/48/000000/dbt.png"/> 
+</a>
 
 <br><br><br>
 
@@ -63,10 +83,11 @@ When I’m not working with data, I love playing **Chess ♟️** and reading �
 
 ### 🛠️ My Projects  
 
-- 📌 **SQL Data Analysis** – [Click Here](https://github.com/Egitto-Data/sql-data-analytics-project)
-- 📌 **Data_Exploratory(EDA)** – [Click Here](https://github.com/Egitto-Data/Data_Exploratory_Project-EDA-)  
-- 📌 **Data Warehouse and Analytics Project** – [Click Here](https://github.com/Egitto-Data/sql_data_warehouse_project)  
+- 📌 **SQL Data Analysis** – [Click Here](https://github.com/Egitto-Data/sql-data-analytics-project)  
+- 📌 **Pandas & Matplotlib Analytics** – [Click Here](https://github.com/Egitto-Data/pandas-data-analysis-visualization-P1)  
+- 📌 **Data Warehouse & Analytics Project** – [Click Here](https://github.com/Egitto-Data/sql_data_warehouse_project)  
+- 📌 **Snowflake + Databricks Pipeline** – *Coming Soon* 🚀  
 
 ---
 
-✨ *“Data is a story waiting to be told – I’m here to tell it.”* ✨  
+✨ *“Data is not just numbers — it’s a story. My mission is to engineer the pipelines and craft the visuals that bring that story to life.”* ✨
