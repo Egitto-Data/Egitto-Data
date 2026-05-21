@@ -19,7 +19,7 @@ When I’m not working with data, I enjoy playing **Chess ♟️** and reading �
 
 <br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 
 ### 🧐 More About Me:
 - 🔭 Currently working on **data engineering & analytics projects**  
@@ -55,8 +55,9 @@ When I’m not working with data, I enjoy playing **Chess ♟️** and reading �
   <img align="left" alt="Snowflake" height ="40px" src="https://img.icons8.com/color/48/000000/snowflake.png"/> 
 </a>
 <a href="https://databricks.com/" target="_blank"> 
-  <img align="left" alt="Databricks" height ="40px" src="https://img.icons8.com/color/48/000000/databricks.png"/> 
+  <img align="left" alt="Databricks" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Databricks_Logo.svg"/> 
 </a>
+
 <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"> 
   <img align="left" alt="PySpark" height ="40px" src="https://img.icons8.com/color/48/000000/apache-spark.png"/> 
 </a>
@@ -69,8 +70,6 @@ When I’m not working with data, I enjoy playing **Chess ♟️** and reading �
 <a href="https://www.getdbt.com/" target="_blank"> 
   <img align="left" alt="dbt" height="40px" src="https://raw.githubusercontent.com/dbt-labs/dbt/main/etc/dbt-logo-full.svg"/> 
 </a>
-
-
 
 
 <br><br><br>
